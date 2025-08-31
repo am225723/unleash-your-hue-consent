@@ -1,0 +1,26 @@
+{
+  "id": "eric",
+  "theme": "fullColor",
+  "branding": {
+    "title": "Unleash Your Hue",
+    "logoUrl": "/logo.png",
+    "logoUrlDark": "/logo-dark.svg"
+  },
+  "person": {
+    "clientName": "Eric Mensel",
+    "analystName": "Aleixander M. Puerta"
+  },
+  "roi": {
+    "physicianName": "Douglas Zelisko, M.D."
+  },
+  "payment": {
+    "helcimUrl": "https://integrative-psychiatry-8151.myhelcim.com/hosted/?token=869819d560630bec6eb726&amount=1.00&amountHash=cf9dcf6da8a82be1335c398a4005def7ee3a53d4698c59dbc6b2b14e72d1263c",
+    "ctaLabel": "Make a Contribution"
+  },
+  "copy": {
+    "subtitle": "A personal message to Eric Mensel \u2022 From Aleixander M. Puerta, Analyst",
+    "paragraph1": "Eric, I know your story\u2026",
+    "paragraph2": "I\u2019m not here to give you another program\u2026",
+    "paragraph3": "I\u2019m here because I want to be your friend\u2026"
+  }
+}

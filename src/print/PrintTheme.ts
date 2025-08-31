@@ -1,0 +1,1 @@
+export type PrintTheme={border:string;textMain:string;textMuted:string;watermark:string};export const printTheme:PrintTheme={border:'border-gray-400',textMain:'text-black',textMuted:'text-gray-600',watermark:'text-gray-800'};

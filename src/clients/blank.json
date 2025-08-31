@@ -1,0 +1,26 @@
+{
+  "id": "client-id",
+  "theme": "fullColor",
+  "branding": {
+    "title": "Unleash Your Hue",
+    "logoUrl": "/logo.png",
+    "logoUrlDark": "/logo-dark.svg"
+  },
+  "person": {
+    "clientName": "Client Full Name",
+    "analystName": "Aleixander M. Puerta"
+  },
+  "roi": {
+    "physicianName": "Douglas Zelisko, M.D."
+  },
+  "payment": {
+    "helcimUrl": "https://your-helcim-link",
+    "ctaLabel": "Make a Contribution"
+  },
+  "copy": {
+    "subtitle": "A personal message to Client \u2022 From Aleixander M. Puerta, Analyst",
+    "paragraph1": "Client, I know your story\u2026",
+    "paragraph2": "I\u2019m not here to give you another program\u2026",
+    "paragraph3": "I\u2019m here because I want to be your friend\u2026"
+  }
+}
